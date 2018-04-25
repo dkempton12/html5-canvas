@@ -7,4 +7,4 @@ Uses strokeStyle, lineJoin, and lineWidth properties in JS for the shape of the 
 Uses beginPath(), moveTo(), lineTo(), and stroke() methods to draw the actual line(s)
 
 
-Uses 'mousemove' and 'mousedown' JS events 
+Listens for 'mousemove' and 'mousedown' JS events 
